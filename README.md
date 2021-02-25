@@ -10,11 +10,13 @@
 # 雲端軟體管理與大數據資料庫程式開發
 ## D06 SQL&NOSQL資料庫介紹
 ## D07 Docker軟體容器平台介紹與安裝使用
+- 基本的docker使用
 - [x] [study](https://github.com/chihpy/AIOT/blob/main/D07_docker/D07%20Docker.md)
 - [x] [homework](https://github.com/chihpy/AIOT/blob/main/D07_docker/D07_Docker_hw.md)
 ## D08 MonogoDB大數據資料庫介紹與安裝實作
-- [ ] study
-- [ ] homework 
+- 基本的MonogoDB使用
+- [x] [study](https://github.com/chihpy/AIOT/blob/main/D08_MongoDB/D08_MongoDB.md)
+- [x] [homework](https://github.com/chihpy/AIOT/blob/main/D08_MongoDB/D08_MongoDB_hw.md) 
 ## D09 Python存取MongoDB常用指令與程式教學
 - [ ] study
 - [ ] homework 
