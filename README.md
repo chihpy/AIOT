@@ -11,7 +11,7 @@
 ## D06 SQL&NOSQL資料庫介紹
 ## D07 Docker軟體容器平台介紹與安裝使用
 - [ ] study
-- [ ] homework
+- [x] homework
 ## D08 MonogoDB大數據資料庫介紹與安裝實作
 - [ ] study
 - [ ] homework 
