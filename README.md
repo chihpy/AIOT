@@ -29,8 +29,10 @@
 ## D15 使用Python控制DHT22感測器與繼電器
 # 物聯網網頁後端程式開發
 ## D16 使用Docker架設Flask Web Server
-- [ ] study
-- [ ] homework
+- 用flask寫一個hello world
+- 寫一個dockerfile有flask和python環境
+- [x] [study](https://github.com/chihpy/AIOT/blob/main/D16_Flask_docker/D16_Flask_and_Docker.md)
+- [x] [homework](https://github.com/chihpy/AIOT/tree/main/D16_Flask_docker/file)
 ## D17 使用Python開發Flask網頁程式
 - [ ] study
 - [ ] homework
