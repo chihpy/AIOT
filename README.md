@@ -40,8 +40,9 @@
 - [x] [study](https://github.com/chihpy/AIOT/blob/main/D17_Flask/D17_Flask.md)
 - [x] [homework](https://github.com/chihpy/AIOT/blob/main/D17_Flask/D17_Flask_hw.md)
 ## D18 撰寫Flask Web程式存取MongoDB
-- [ ] study
-- [ ] homework
+- 由flask存取mongo進行增刪改查
+- [x] [study](https://github.com/chihpy/AIOT/blob/main/D18_flask-pymongo/D18%20Flask-PyMongo.md)
+- [x] [homework](https://github.com/chihpy/AIOT/blob/main/D18_flask-pymongo/D18%20Flask-PyMongo_hw.md)
 ## D19 在Raspberry Pi上安裝Flask Web Server
 - [ ] study
 - [ ] homework
