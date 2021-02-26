@@ -34,8 +34,11 @@
 - [x] [study](https://github.com/chihpy/AIOT/blob/main/D16_Flask_docker/D16_Flask_and_Docker.md)
 - [x] [homework](https://github.com/chihpy/AIOT/tree/main/D16_Flask_docker/file)
 ## D17 使用Python開發Flask網頁程式
-- [ ] study
-- [ ] homework
+- [ ] http的八種方法
+- [ ] 回傳HTML的畫面
+- [ ] 一個上傳的按鈕和顯示HTML
+- [x] [study](https://github.com/chihpy/AIOT/blob/main/D17_Flask/D17_Flask.md)
+- [x] [homework](https://github.com/chihpy/AIOT/blob/main/D17_Flask/D17_Flask_hw.md)
 ## D18 撰寫Flask Web程式存取MongoDB
 - [ ] study
 - [ ] homework
