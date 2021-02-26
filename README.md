@@ -27,6 +27,9 @@
 - [x] [study](https://github.com/chihpy/AIOT/blob/main/D10_RaspbarryPi/D10%20Raspberry%20Pi.md)
 - [x] [homework](https://github.com/chihpy/AIOT/blob/main/D10_RaspbarryPi/D10%20Raspberry%20Pi_hw.md)
 ## D11 Linux常用指令教學
+- linux的基礎指令
+- [x] [study](https://github.com/chihpy/AIOT/blob/main/D11_Linux_command/D11%20Linux%20command.md)
+- [x] [homework](https://github.com/chihpy/AIOT/blob/main/D11_Linux_command/D11%20Linux%20command_hw.md)
 ## D12 RaspberryPi之接腳介紹與GPIO教學
 ## D13 使用python控制GPIO接腳
 ## D14 使用Python進行WebCam視訊擷取與輸出
