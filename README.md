@@ -18,8 +18,9 @@
 - [x] [study](https://github.com/chihpy/AIOT/blob/main/D08_MongoDB/D08_MongoDB.md)
 - [x] [homework](https://github.com/chihpy/AIOT/blob/main/D08_MongoDB/D08_MongoDB_hw.md) 
 ## D09 Python存取MongoDB常用指令與程式教學
-- [ ] study
-- [ ] homework 
+- pymongo增刪改查
+- [x] [study](https://github.com/chihpy/AIOT/blob/main/D09_pymongo/D09%20pymongo.md)
+- [x] [homework](https://github.com/chihpy/AIOT/blob/main/D09_pymongo/D09%20pymongo_hw.md)
 ## D10 RaspberryPi OS系統管理與操作
 ## D11 Linux常用指令教學
 ## D12 RaspberryPi之接腳介紹與GPIO教學
