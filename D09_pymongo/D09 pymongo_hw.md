@@ -12,3 +12,5 @@
 - 建立 DB 及 Collection (名稱自訂)，使用 Python 取得連線。
 ## 作業2
 - 使用 Python 操作 Mongo 中的資料，包含新增、刪除、修改、查詢
+### sol:
+- see notebook
