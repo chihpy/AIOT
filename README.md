@@ -22,6 +22,10 @@
 - [x] [study](https://github.com/chihpy/AIOT/blob/main/D09_pymongo/D09%20pymongo.md)
 - [x] [homework](https://github.com/chihpy/AIOT/blob/main/D09_pymongo/D09%20pymongo_hw.md)
 ## D10 RaspberryPi OS系統管理與操作
+- 開箱樹梅派
+- ssh、vnc設定
+- [x] [study](https://github.com/chihpy/AIOT/blob/main/D10_RaspbarryPi/D10%20Raspberry%20Pi.md)
+- [x] [homework](https://github.com/chihpy/AIOT/blob/main/D10_RaspbarryPi/D10%20Raspberry%20Pi_hw.md)
 ## D11 Linux常用指令教學
 ## D12 RaspberryPi之接腳介紹與GPIO教學
 ## D13 使用python控制GPIO接腳
