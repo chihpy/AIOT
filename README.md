@@ -50,6 +50,8 @@
 - [x] [study](https://github.com/chihpy/AIOT/blob/main/D14_RpiWebCam/D14%20RpiWebCam.md)
 - [x] [homework](https://github.com/chihpy/AIOT/blob/main/D14_RpiWebCam/D14%20RpiWebCam_hw.md)
 ## D15 使用Python控制DHT22感測器與繼電器
+- [x] [study](https://github.com/chihpy/AIOT/blob/main/D15_RpiSensor/D15_RpiSensor.md)
+- [x] [homework](https://github.com/chihpy/AIOT/blob/main/D15_RpiSensor/D15_RpiSensor_hw.md)
 # 物聯網網頁後端程式開發
 ## D16 使用Docker架設Flask Web Server
 - 用flask寫一個hello world
