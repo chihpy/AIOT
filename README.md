@@ -31,6 +31,11 @@
 - [x] [study](https://github.com/chihpy/AIOT/blob/main/D11_Linux_command/D11%20Linux%20command.md)
 - [x] [homework](https://github.com/chihpy/AIOT/blob/main/D11_Linux_command/D11%20Linux%20command_hw.md)
 ## D12 RaspberryPi之接腳介紹與GPIO教學
+- 啟動、關閉GPIO接腳
+- 啟動、關閉I2C、SPI
+- `/sys/kernel/debug/gpio`
+- [x] [study](https://github.com/chihpy/AIOT/blob/main/D12_Rpi_GPIO/D12%20Rpi%20GPIO.md)
+- [x] [homework](https://github.com/chihpy/AIOT/blob/main/D12_Rpi_GPIO/D12%20Rpi%20GPIO_hw.md)
 ## D13 使用python控制GPIO接腳
 ## D14 使用Python進行WebCam視訊擷取與輸出
 ## D15 使用Python控制DHT22感測器與繼電器
