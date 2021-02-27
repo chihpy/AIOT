@@ -11,6 +11,7 @@
 - 插上webcam後: `ls /dev`
 ![](https://i.imgur.com/EVoQGos.png)
 - `lsusb -v |grep "14 Video"`
+
 ![](https://i.imgur.com/Ml7nxuG.png)
 
 
