@@ -46,12 +46,12 @@
     - `source bin/activate`
         - `source /home/pi/Documents/envs/pygpio/bin/activate`
     - `deactivate`
+    - 幾個常用命令:
+        - 檢查已安裝程式
+            - `pip3 list`
+        - 刪除環境
+            - 直接刪資料夾
 - vscode遠程開發樹梅派
     - [參考](https://www.w3xue.com/exp/article/20204/82577.html)
     - [除錯](https://github.com/microsoft/vscode-remote-release/issues/2805)
         - remote-ssh:kill vscode server on host
-- 幾個常用命令:
-    - 檢查已安裝程式
-        - `pip3 list`
-    - 刪除環境
-        - 直接刪資料夾
