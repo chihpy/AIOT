@@ -1,6 +1,7 @@
-from gpiozero import LED, Button
+from gpiozero import PWMLED
+from gpiozero import Button
 from signal import pause
-led = LED(4)
+led = PWMLED(4)
 button = Button(2)
 
 def set30p():
