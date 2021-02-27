@@ -38,6 +38,11 @@
 - [x] [study](https://github.com/chihpy/AIOT/blob/main/D12_Rpi_GPIO/D12%20Rpi%20GPIO.md)
 - [x] [homework](https://github.com/chihpy/AIOT/blob/main/D12_Rpi_GPIO/D12%20Rpi%20GPIO_hw.md)
 ## D13 使用python控制GPIO接腳
+- remote vscode
+- python點亮LED燈
+- python控制LED明暗
+- [ ] [sutdy]()
+- [ ] [homework]()
 ## D14 使用Python進行WebCam視訊擷取與輸出
 ## D15 使用Python控制DHT22感測器與繼電器
 # 物聯網網頁後端程式開發
