@@ -38,8 +38,9 @@
     - `cat /sys/kernel/debug/gpio`
 - SPI、I2C、Serial(TXRX)、RemoteGPIO都是在respi-config改
 ## 實作
+- 使用sysfs點亮LED燈
 ## reference
-- [ ] [Raspberry Pi LEG閃爍](https://coldnew.github.io/f7349436/)
+- [x] [Raspberry Pi LEG閃爍](https://coldnew.github.io/f7349436/)
 - [ ] [使用/sys訪問內核](https://www.ibm.com/developerworks/cn/linux/l-cn-sysfs/index.html)
 - [ ] [procfs, sysfs, debugfs簡介](https://www.itread01.com/content/1549273141.html)
 ## extension

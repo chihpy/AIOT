@@ -34,6 +34,7 @@
 - 啟動、關閉GPIO接腳
 - 啟動、關閉I2C、SPI
 - `/sys/kernel/debug/gpio`
+- 使用sysfs點亮LED燈
 - [x] [study](https://github.com/chihpy/AIOT/blob/main/D12_Rpi_GPIO/D12%20Rpi%20GPIO.md)
 - [x] [homework](https://github.com/chihpy/AIOT/blob/main/D12_Rpi_GPIO/D12%20Rpi%20GPIO_hw.md)
 ## D13 使用python控制GPIO接腳
