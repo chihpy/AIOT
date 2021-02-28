@@ -70,8 +70,9 @@
 - [x] [study](https://github.com/chihpy/AIOT/blob/main/D18_flask-pymongo/D18%20Flask-PyMongo.md)
 - [x] [homework](https://github.com/chihpy/AIOT/blob/main/D18_flask-pymongo/D18%20Flask-PyMongo_hw.md)
 ## D19 在Raspberry Pi上安裝Flask Web Server
-- [ ] study
-- [ ] homework
+- 由flask Web Server控制LED燈
+- [x] [study](https://github.com/chihpy/AIOT/blob/main/D19_Flask_Rpi/D19_Flask_Rpi.md)
+- [x] [homework](https://github.com/chihpy/AIOT/blob/main/D19_Flask_Rpi/D19_Flask_Rpi_hw.md)
 # Pre-trained模型訓練資料方法-使用LabelImg與yolo影像辨識技術
 ## D20 YOLO目標檢測框架介紹
 ## D21 使用yolov3訓練人臉識別
