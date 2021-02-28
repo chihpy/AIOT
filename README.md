@@ -60,8 +60,6 @@
 - [x] [study](https://github.com/chihpy/AIOT/blob/main/D16_Flask_docker/D16_Flask_and_Docker.md)
 - [x] [homework](https://github.com/chihpy/AIOT/tree/main/D16_Flask_docker/file)
 ## D17 使用Python開發Flask網頁程式
-- [ ] http的八種方法
-- [ ] 回傳HTML的畫面
 - [ ] 一個上傳的按鈕和顯示HTML
 - [x] [study](https://github.com/chihpy/AIOT/blob/main/D17_Flask/D17_Flask.md)
 - [x] [homework](https://github.com/chihpy/AIOT/blob/main/D17_Flask/D17_Flask_hw.md)
@@ -70,7 +68,7 @@
 - [x] [study](https://github.com/chihpy/AIOT/blob/main/D18_flask-pymongo/D18%20Flask-PyMongo.md)
 - [x] [homework](https://github.com/chihpy/AIOT/blob/main/D18_flask-pymongo/D18%20Flask-PyMongo_hw.md)
 ## D19 在Raspberry Pi上安裝Flask Web Server
-- 由flask Web Server控制LED燈
+- 由flask按鈕控制LED燈
 - [x] [study](https://github.com/chihpy/AIOT/blob/main/D19_Flask_Rpi/D19_Flask_Rpi.md)
 - [x] [homework](https://github.com/chihpy/AIOT/blob/main/D19_Flask_Rpi/D19_Flask_Rpi_hw.md)
 # Pre-trained模型訓練資料方法-使用LabelImg與yolo影像辨識技術
