@@ -75,6 +75,9 @@
 - [x] [homework](https://github.com/chihpy/AIOT/blob/main/D19_Flask_Rpi/D19_Flask_Rpi_hw.md)
 # Pre-trained模型訓練資料方法-使用LabelImg與yolo影像辨識技術
 ## D20 YOLO目標檢測框架介紹
+- [ ] 整理mAP
+- [x] [study](https://github.com/chihpy/AIOT/blob/main/D20_YOLO_intro/D20_YOLO_intro.md)
+- [x] [homework](https://github.com/chihpy/AIOT/blob/main/D20_YOLO_intro/D20_YOLO_intro_hw.md)
 ## D21 使用yolov3訓練人臉識別
 ## D22 在Raspberry Pi上使用YOLO已訓練好的模型
 ## D23 在樹梅派上佈署與使用YOLOv3-tiny
