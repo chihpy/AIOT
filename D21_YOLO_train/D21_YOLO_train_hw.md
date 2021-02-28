@@ -31,4 +31,4 @@
 ## 作業4：
 - 請在 colab 的儲存空間新建 "123.sh" 文件，透過echo指令往裡面寫入
 ### sol:
-- [train.sh]()
+- [train.sh](https://github.com/chihpy/AIOT/blob/main/D21_YOLO_train/create_cfg.sh)

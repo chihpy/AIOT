@@ -77,6 +77,10 @@
 - [x] [study](https://github.com/chihpy/AIOT/blob/main/D20_YOLO_intro/D20_YOLO_intro.md)
 - [x] [homework](https://github.com/chihpy/AIOT/blob/main/D20_YOLO_intro/D20_YOLO_intro_hw.md)
 ## D21 使用yolov3訓練人臉識別
+- train yolo on colab
+- write .sh for colab
+- [x] [study](https://github.com/chihpy/AIOT/blob/main/D21_YOLO_train/D21_YOLO_train.md)
+- [x] [homework](https://github.com/chihpy/AIOT/blob/main/D21_YOLO_train/D21_YOLO_train_hw.md)
 ## D22 在Raspberry Pi上使用YOLO已訓練好的模型
 ## D23 在樹梅派上佈署與使用YOLOv3-tiny
 ## D24 使用YOLO訓練如何辨識橘子
