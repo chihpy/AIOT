@@ -38,3 +38,5 @@
 - [ ] 實作繼電器控制
 ## reference
 ## extension
+- [ ] 人體紅外線感測器
+- [ ] arduino 人體紅外線
