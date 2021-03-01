@@ -86,6 +86,9 @@
 - [x] [study](https://github.com/chihpy/AIOT/blob/main/D22_Rpi_inference_yolo/D22_Rpi_inference_yolo.md)
 - [x] [homework](https://github.com/chihpy/AIOT/blob/main/D22_Rpi_inference_yolo/D22_Rpi_inference_yolo_hw.md)
 ## D23 在樹梅派上佈署與使用YOLOv3-tiny
+- train tiny yolo_v3 on colab
+- [x] [study](https://github.com/chihpy/AIOT/blob/main/D23_Rpi_tiny_yolo/D23_Rpi_tiny_yolo.md)
+- [x] [homework](https://github.com/chihpy/AIOT/blob/main/D23_Rpi_tiny_yolo/D23_Rpi_tiny_yolo_hw.md)
 ## D24 使用YOLO訓練如何辨識橘子
 # 樹梅派連結MongoDB整合前後端
 ## D25 透過Flask將訊息從樹梅派傳送給PC
