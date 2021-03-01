@@ -82,6 +82,9 @@
 - [x] [study](https://github.com/chihpy/AIOT/blob/main/D21_YOLO_train/D21_YOLO_train.md)
 - [x] [homework](https://github.com/chihpy/AIOT/blob/main/D21_YOLO_train/D21_YOLO_train_hw.md)
 ## D22 在Raspberry Pi上使用YOLO已訓練好的模型
+- inference yolo on RPi
+- [x] [study](https://github.com/chihpy/AIOT/blob/main/D22_Rpi_inference_yolo/D22_Rpi_inference_yolo.md)
+- [x] [homework](https://github.com/chihpy/AIOT/blob/main/D22_Rpi_inference_yolo/D22_Rpi_inference_yolo_hw.md)
 ## D23 在樹梅派上佈署與使用YOLOv3-tiny
 ## D24 使用YOLO訓練如何辨識橘子
 # 樹梅派連結MongoDB整合前後端
