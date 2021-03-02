@@ -14,3 +14,4 @@
     - 使用get取得文字
 ## reference
 ## extension
+- [decorator_learn](https://github.com/chihpy/AIOT/blob/main/D25_flask_Rpi2PC/Decorator.ipynb) 
