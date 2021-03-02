@@ -104,6 +104,10 @@
 - [x] [study](https://github.com/chihpy/AIOT/blob/main/D27_img_pymongo/D27_img_pymongo.md)
 - [x] [homework](https://github.com/chihpy/AIOT/blob/main/D27_img_pymongo/D27_img_pymongo_hw.md)
 ## D28 使用Webcam 拍照並以YOLO辨識資料庫儲存的結果
+- Rpi端拍照->inference_yolo->傳給WebAPI
+- PC端由WebAPI獲取圖片和inference結果->存入MongoDB
+- [x] [study](https://github.com/chihpy/AIOT/blob/main/D28_flask_yolo_webcam/D28_WebCam_yolo.md)
+- [x] [homework](https://github.com/chihpy/AIOT/blob/main/D28_flask_yolo_webcam/D28_WebCam_yolo_hw.md)
 # 期末專題
 ## D29 支援口罩辨識的智慧門禁系統
 ## D30 Line Chat API即時通知系統
