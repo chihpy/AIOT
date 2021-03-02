@@ -92,6 +92,9 @@
 ## D24 使用YOLO訓練如何辨識橘子
 # 樹梅派連結MongoDB整合前後端
 ## D25 透過Flask將訊息從樹梅派傳送給PC
+- 在PC端接收RPi放在WebAPI上的訊息
+- [x] [study](https://github.com/chihpy/AIOT/blob/main/D25_flask_Rpi2PC/D25%20flask_RPi2PC.md)
+- [x] [homework](https://github.com/chihpy/AIOT/blob/main/D25_flask_Rpi2PC/D25%20flask_RPi2PC_hw.md)
 ## D26 將RaspberryPi的YOLO資料集預測結果傳送至PC
 ## D27 設計一個影像與辨識結果的資料庫
 ## D28 使用Webcam 拍照並以YOLO辨識資料庫儲存的結果
