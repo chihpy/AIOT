@@ -100,6 +100,9 @@
 - [x] [study](https://github.com/chihpy/AIOT/blob/main/D26_darknet_Rpi2PC/D26%20darknet_RPi2PC.md)
 - [x] [homework](https://github.com/chihpy/AIOT/blob/main/D26_darknet_Rpi2PC/D26%20darknet_RPi2PC_hw.md)
 ## D27 設計一個影像與辨識結果的資料庫
+- MongoDB存取圖片
+- [x] [study](https://github.com/chihpy/AIOT/blob/main/D27_img_pymongo/D27_img_pymongo.md)
+- [x] [homework](https://github.com/chihpy/AIOT/blob/main/D27_img_pymongo/D27_img_pymongo_hw.md)
 ## D28 使用Webcam 拍照並以YOLO辨識資料庫儲存的結果
 # 期末專題
 ## D29 支援口罩辨識的智慧門禁系統
