@@ -17,4 +17,4 @@
 - 將作業 1 與作業 2 結合，設定程式在溫度 10 度以下，打開 GPIO26，溫度 10 度以上到 20 度之間，控制 GPIO19，溫度 20 度到 30 度之間，控制 GPIO13，溫度在 30 度以上，控制 GPIO6，達成在不同的溫度區間時，控制不同的繼電器的需求。
 
 - 由於沒有溫溼度感測器、繼電器，以PIRSensor替代
-- [PIRSensor]()
+- [PIRSensor](https://github.com/chihpy/AIOT/blob/main/D15_RpiSensor/PIR_Sensor.md)
