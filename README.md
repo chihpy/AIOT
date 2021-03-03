@@ -109,5 +109,4 @@
 - [x] [study](https://github.com/chihpy/AIOT/blob/main/D28_flask_yolo_webcam/D28_WebCam_yolo.md)
 - [x] [homework](https://github.com/chihpy/AIOT/blob/main/D28_flask_yolo_webcam/D28_WebCam_yolo_hw.md)
 # 期末專題
-## D29 支援口罩辨識的智慧門禁系統
-## D30 Line Chat API即時通知系統
+- [x] [README](https://github.com/chihpy/AIOT/blob/main/final_project/AIOT%20README.md)
